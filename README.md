@@ -1,6 +1,8 @@
 # QuDoc &#x1F537;
 Quantum Machine Learning Powered Healthcare Platform
 
+  ![](https://github.com/lucylow/Hack-Q-Thon/blob/main/Screen%20Shot%202021-05-30%20at%204.01.41%20PM.png)
+
 
 <div>
   
@@ -10,8 +12,6 @@ Quantum Machine Learning Powered Healthcare Platform
   [![License](https://img.shields.io/bower/l/bootstrap)]()
 
 </div>
-
-  ![](https://github.com/lucylow/Hack-Q-Thon/blob/main/Screen%20Shot%202021-05-30%20at%204.01.41%20PM.png)
 
 ## Table of Contents &#x1F537;
 
