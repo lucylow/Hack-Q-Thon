@@ -1,7 +1,6 @@
 # QuDoc &#x1F537;
 Quantum Machine Learning Powered Healthcare Platform
 
-> **┬┴┬┴┬┴┤ (҂   ` ﾛ ´)︻デ═一____________________＼(º □ º )/	├┬┴┬┴┬┴┬┴┬┴┬┴┬┴┬┴┬┴┬┴┬┴**
 
 <div>
   
