@@ -1,7 +1,7 @@
 # QuDoc &#x1F537;
 Quantum Machine Learning Powered Healthcare Platform
 
-  ![](https://github.com/lucylow/Hack-Q-Thon/blob/main/Screen%20Shot%202021-05-30%20at%204.01.41%20PM.png)
+  ![](https://github.com/lucylow/Hack-Q-Thon/blob/main/Screen%20Shot%202021-05-30%20at%204.02.02%20PM.png)
 
 
 <div>
@@ -30,6 +30,5 @@ Diagnosing a patient correctly has always been a long and arduous, that depends 
   
   ![](https://github.com/lucylow/Hack-Q-Thon/blob/main/Screen%20Shot%202021-05-30%20at%204.01.41%20PM.png)
 
-  ![](https://github.com/lucylow/Hack-Q-Thon/blob/main/Screen%20Shot%202021-05-30%20at%204.02.02%20PM.png)
 
 
