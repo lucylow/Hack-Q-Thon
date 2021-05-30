@@ -1,8 +1,7 @@
 # QuDoc &#x1F537;
 Quantum Machine Learning Powered Healthcare Platform
 
-  ![](https://github.com/lucylow/Hack-Q-Thon/blob/main/Screen%20Shot%202021-05-30%20at%204.02.02%20PM.png)
-
+  ![](https://github.com/lucylow/Hack-Q-Thon/blob/main/Screen%20Shot%202021-05-30%20at%204.01.41%20PM.png)
 
 <div>
   
@@ -28,7 +27,6 @@ Traditionally, diagnosing a patient’s condition has been based heavily on the 
 Diagnosing a patient correctly has always been a long and arduous, that depends on unreliable anecdotal data, such as patient-reported symptoms and vague familial data. This causes the misdiagnosis, or the prescription of ineffective medicine. This umbrella diagnosis and prescription is responsible for up to 200.00 people deaths each year. The use of personalized medicine seeks to resolve/attenuate this through consideration of individual variations such as differences in their genome, proteome, and exposome (takes into consideration their lifestyle, health history, etc..). This goes beyond standard medical due to the logistics involved, not only in collecting the data necessary but also in the processing of the data in a relevant way to prevent and treat the disease. To that effect, the role of precision medicine is to consider the patient at an individual level, using a multitude of factors, to produce an optimum solution that is tailored to them at that moment. This not only alleviates the repercussions of umbrella diagnoses, but also takes some of the burden off of healthcare workers who are experiencing burnout and declining mental health. The use of traditional machine learning has helped the progression of precision medicine but is coming to its limit as the number of health related variables increase. How can we use quantum computing to aid this cause, and emphasize the interplay of health risk factors in the progression of disease?
 
   
-  ![](https://github.com/lucylow/Hack-Q-Thon/blob/main/Screen%20Shot%202021-05-30%20at%204.01.41%20PM.png)
 
-
+  ![](https://github.com/lucylow/Hack-Q-Thon/blob/main/Screen%20Shot%202021-05-30%20at%204.02.02%20PM.png)
 
